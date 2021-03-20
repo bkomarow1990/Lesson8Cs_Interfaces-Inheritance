@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\bin\Debug\netcoreapp3.1\Interface Demo.exe
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\bin\Debug\netcoreapp3.1\Interface Demo.deps.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\bin\Debug\netcoreapp3.1\Interface Demo.runtimeconfig.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\bin\Debug\netcoreapp3.1\Interface Demo.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\bin\Debug\netcoreapp3.1\Interface Demo.dll
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\bin\Debug\netcoreapp3.1\Interface Demo.pdb
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.dll
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.pdb
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\Interface Demo\obj\Debug\netcoreapp3.1\Interface Demo.genruntimeconfig.cache

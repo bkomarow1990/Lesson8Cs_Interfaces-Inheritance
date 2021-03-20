@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\bin\Debug\netcoreapp3.1\HW_Interfaces.exe
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\bin\Debug\netcoreapp3.1\HW_Interfaces.deps.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\bin\Debug\netcoreapp3.1\HW_Interfaces.runtimeconfig.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\bin\Debug\netcoreapp3.1\HW_Interfaces.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\bin\Debug\netcoreapp3.1\HW_Interfaces.dll
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\bin\Debug\netcoreapp3.1\HW_Interfaces.pdb
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.dll
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.pdb
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\HW_Interfaces\obj\Debug\netcoreapp3.1\HW_Interfaces.genruntimeconfig.cache

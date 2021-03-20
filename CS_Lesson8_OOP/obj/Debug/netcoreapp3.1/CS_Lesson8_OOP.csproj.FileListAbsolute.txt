@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\bin\Debug\netcoreapp3.1\CS_Lesson8_OOP.exe
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\bin\Debug\netcoreapp3.1\CS_Lesson8_OOP.deps.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\bin\Debug\netcoreapp3.1\CS_Lesson8_OOP.runtimeconfig.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\bin\Debug\netcoreapp3.1\CS_Lesson8_OOP.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\bin\Debug\netcoreapp3.1\CS_Lesson8_OOP.dll
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\bin\Debug\netcoreapp3.1\CS_Lesson8_OOP.pdb
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.AssemblyInfo.cs
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.dll
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.pdb
+C:\Users\Igor\source\repos\CS_Lesson8_OOP\CS_Lesson8_OOP\obj\Debug\netcoreapp3.1\CS_Lesson8_OOP.genruntimeconfig.cache
