@@ -52,6 +52,7 @@ namespace HW_Interfaces
                 throw new Exception("Device is Null");
             }
             this.print_devices.Add(device);
+            ++countPrintDevices;
         }
         public void AddDisk(Disk disk)
         {
@@ -60,6 +61,7 @@ namespace HW_Interfaces
                 throw new Exception("Device is Null");
             }
             this.disks.Add(disk);
+            ++countDisk;
         }
         void InsertReject(string device, bool b)
         {
