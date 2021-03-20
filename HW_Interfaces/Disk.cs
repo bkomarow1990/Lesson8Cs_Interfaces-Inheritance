@@ -8,7 +8,6 @@ namespace HW_Interfaces
     {
         string memory;
         int mem_size;
-        string name;
         public string Memory
         {
             get => memory;
